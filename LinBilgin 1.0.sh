@@ -1,6 +1,4 @@
-cd Belgeler
-echo              >>rapor.log
-echo Sorular için eposta adresi:devrimerensezgin@rocketmail.com>>rapor.log
+cd
 echo              >>rapor.log
 echo Verilen komut:date>>rapor.log
 date>rapor.log
