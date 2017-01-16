@@ -86,6 +86,4 @@ echo              >>rapor.log
 lsusb>>rapor.log
 echo              >>rapor.log
 echo              >>rapor.log
-echo Hazırlayan:Devrim Eren SEZGİN.>>rapor.log
 echo LinBilgin 1.0 rapor dökümünü incelemektesiniz.>>rapor.log
-echo Sorular için eposta adresi:devrimerensezgin@rocketmail.com>>rapor.log
